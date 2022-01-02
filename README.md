@@ -3,8 +3,6 @@ some words to describe me are C Dev, Graphic Designer and game development lover
 
 Skills: C / BASH / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
-
 
 
 
