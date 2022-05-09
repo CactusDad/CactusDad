@@ -4,7 +4,7 @@
 ### Hi there 👋, My name is Ayoub BOUDARGA
 
 <a href="https://github.com/CactusDad/CactusDad">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CactusDad&show_icons=true&line_height=27&count_private=true&title_color=444444&text_color=515252&icon_color=86b37ai&bg_color=f5f7f7" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CactusDad&show_icons=true&line_height=27&count_private=true&title_color=444444&text_color=515252&icon_color=86b37a&bg_color=f5f7f7" alt="Martin's GitHub Stats" />
 </a>
 
 <a href="https://github.com/CactusDad/CactusDad">
