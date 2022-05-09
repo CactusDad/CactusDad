@@ -1,3 +1,6 @@
+
+  <img align="center" src="https://cdn.discordapp.com/attachments/908853608425062400/973277645770985483/Screen_Shot_2022-05-09_at_6.20.12_PM.png" />
+
 ### Hi there 👋, My name is Ayoub BOUDARGA
 
 <a href="https://github.com/CactusDad/CactusDad">
