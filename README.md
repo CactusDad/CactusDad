@@ -16,5 +16,3 @@
 	<img alt="CactusDad's followers" src="https://img.shields.io/github/followers/CactusDad?color=green" />
 	<img alt="CactusDad's stars" src="https://img.shields.io/github/stars/CactusDad?color=green" />
 </p>
-
----
